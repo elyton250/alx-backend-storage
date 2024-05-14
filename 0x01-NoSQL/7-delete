@@ -1,0 +1,2 @@
+// this delets thinsg
+db.school.deleteMany({name: "Holberton school"})
